@@ -2,19 +2,6 @@
 
 Welcome to the **Java Learning Repository**! This repository is designed for beginners and intermediate developers who want to master Java programming through hands-on examples, exercises, and mini-projects. Whether you're just starting out or brushing up on your skills, you'll find structured content and practical code to help you grow.
 
-## 📚 Table of Contents
-
-- [Introduction](#introduction)
-- [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
-- [Repository Structure](#repository-structure)
-- [Topics Covered](#topics-covered)
-- [How to Use This Repo](#how-to-use-this-repo)
-- [Projects](#projects)
-- [Resources](#resources)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## 📖 Introduction
 
 Java is a powerful, versatile, and widely-used programming language. This repo provides a step-by-step learning path with:
@@ -34,4 +21,4 @@ Java is a powerful, versatile, and widely-used programming language. This repo p
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/java-learning-repo.git
+   git clone : [text](https://github.com/SPradeep-hub/java.git)
