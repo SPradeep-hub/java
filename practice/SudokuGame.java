@@ -20,7 +20,7 @@ public class SudokuGame {
         while (true) {
             System.out.print("\r" + banner);   // overwrite same line
             banner = banner.substring(1) + banner.charAt(0);
-9        }
+        }
     }
     public static void main(String[] args) throws InterruptedException {
         Scanner sc = new Scanner(System.in);
@@ -34,5 +34,6 @@ public class SudokuGame {
         
         System.out.println("\nMoving banner (press Ctrl+C to stop):");
         createMovingBanner(bannerText);
+        sc.close();
     }
 }

@@ -33,6 +33,7 @@ public class GradeCalculator{
         System.out.print("Enter a score to get the grade: ");
         int score = sc.nextInt();
         System.out.println("Score: " + score + " -> Grade: " + getGrade(score));
+        sc.close();
        }
 
         // Test negative score (will throw exception)

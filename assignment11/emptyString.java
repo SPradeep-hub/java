@@ -1,6 +1,6 @@
 class emptyString {
     public static void main(String[] args) {
-        String name = null;
+        String name = "";
         try {
             int length = name.length();
             System.out.println("length = " + length);
